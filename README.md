@@ -150,6 +150,13 @@ The application is deployed using **Streamlit Cloud**.
 🔗 **Live Demo:**  
 https://movie-recommend-123.streamlit.app/
 
+---
+
+## 📸 Application Screenshot
+
+![Movie Recommender System – Live Demo](screenshots/app_ui.png)
+
+
 
 
 
