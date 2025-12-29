@@ -154,7 +154,7 @@ https://movie-recommend-123.streamlit.app/
 
 ## 📸 Application Screenshot
 
-![Movie Recommender System – Live Demo](screenshots/app_ui.png)
+![Movie Recommender System – Live Demo](screenshots/app_ui.png.png)
 
 
 
